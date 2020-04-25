@@ -10,3 +10,5 @@ This project currently contains a prototype of HydraComms. The main idea behind 
 
 - Possibly features such as searching or tags or similar
 
+- Fixing code in the prototype is fairly worthless
+
